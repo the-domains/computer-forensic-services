@@ -1,0 +1,28 @@
+name: Computer Forensic Services
+favicon: null
+layout_spectrum: 0.5803926486987621
+typography_spectrum: 0.4342720496933907
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.960084582446143
+  lightness: 0.41609616950154305
+  saturation: 0.40143291442655027
+  rhythmicContrast: 0.8653317263815552
+purpose: []
